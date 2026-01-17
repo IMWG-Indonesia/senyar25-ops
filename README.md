@@ -16,14 +16,14 @@ Repositori ini digunakan sebagai ruang kolaborasi **IMWG Indonesia** untuk menge
 Jika Anda ingin membantu:
 1. **Cek papan tugas** dan pilih issue yang berlabel sesuai kapasitas (mis. `gis`, `data`, `mdc`, `infographic`, `qa-qc`).
 2. Jika ada kebutuhan baru, **buat issue** menggunakan format micro-task berikut:
-   - **What**: apa yang dikerjakan
-   - **Purpose**: untuk apa
-   - **Outcome**: hasil yang diharapkan
+   - **Apa**: apa yang dikerjakan
+   - **Tujuan**: untuk apa
+   - **Hasil**: hasil yang diharapkan
    - **Format**: peta (PDF/PNG), dataset (CSV/GeoJSON), dashboard, dsb.
-   - **Priority**: low/medium/high
-   - **Deadline**
-   - **Data source**
-   - **Requester**
+   - **Prioritas**: low/medium/high
+   - **Deadline**:
+   - **Data source**:
+   - **Requester**:
 3. Untuk diskusi, **posting link issue ke room Matrix/Element** dan gunakan thread agar 1 topik = 1 thread.
 
 ## Aturan Dasar Data (Ringkas)
