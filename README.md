@@ -33,3 +33,49 @@ Jika Anda ingin membantu:
 ## Kode Etik Kolaborasi
 - Fokus pada kebutuhan operasional dan menghindari duplikasi kerja.
 - Gunakan bahasa yang jelas, singkat, dan cantumkan asumsi/metodologi saat membuat peta/analisis.
+
+
+# Aceh
+
+```mermaid
+
+timeline 
+	title Status Tanggap Darurat Bencana Aceh (Banjir & Tanah Longsor) 
+	
+	section 29 Des 2025 (Senin) — Pembaruan Status 
+		Pospenas/BNPB: 6 wilayah masuk fase Transisi Darurat → Pemulihan : 29/12/2025 
+		Kab. Aceh Besar: masih proses penetapan Transisi Darurat → Pemulihan : 29/12/2025 
+		11 wilayah: perpanjangan Status Tanggap Darurat : 29/12/2025 
+		Provinsi Aceh: Status Tanggap Darurat berakhir : 08/01/2026 
+		
+	section Transisi Darurat → Pemulihan (6 wilayah) 
+		Kab. Aceh Tenggara : 29/12/2025 
+		Kab. Aceh Selatan : 29/12/2025 
+		Kota Subulussalam : 29/12/2025 
+		Kab. Aceh Singkil : 29/12/2025 
+		Kota Langsa : 29/12/2025 
+		Kota Lhokseumawe : 29/12/2025 
+		
+	section Perpanjangan Status Tanggap Darurat (11 wilayah) 
+		Kab. Pidie : 29/12/2025 
+		Kab. Pidie Jaya : 29/12/2025 
+		Kab. Bireuen : 29/12/2025 
+		Kab. Aceh Barat : 29/12/2025 
+		Kab. Nagan Raya : 29/12/2025 
+		Kab. Aceh Tengah : 29/12/2025 
+		Kab. Gayo Lues : 29/12/2025 
+		Kab. Bener Meriah : 29/12/2025 
+		Kab. Aceh Utara : 29/12/2025 
+		Kab. Aceh Timur : 29/12/2025 
+		Kab. Aceh Tamiang : 29/12/2025 
+		
+	section 30 Des 2025 — Contoh Kondisi Lapangan & Fokus Penanganan 
+		Kab. Aceh Tenggara: >1.600 pengungsi, layanan pos pengungsian masih berlangsung : 30/12/2025 
+		Kota Lhokseumawe: banjir surut, pembersihan rumah/fasilitas umum/jalan oleh unsur daerah, warga & relawan : 30/12/2025 
+		Kab. Aceh Utara: prioritas pembukaan akses jalan & normalisasi fasilitas pendidikan : 30/12/2025 
+		
+	section Hunian Sementara (Huntara) / Dana Tunggu Hunian 
+		Identifikasi–verifikasi–validasi usulan huntara/dana tunggu hunian untuk rumah rusak berat (paralel dengan tanggap darurat) : 29/12/2025 
+		Kab. Pidie & Kab. Pidie Jaya: proses pembangunan fisik huntara menggunakan BTT : 29/12/2025
+
+```
