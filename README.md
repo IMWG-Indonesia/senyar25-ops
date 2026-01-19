@@ -2,14 +2,12 @@
 
 Repositori ini digunakan sebagai ruang kolaborasi **IMWG Indonesia** untuk mengelola tugas **data, pemetaan, dan informasi** terkait respons bencana **SENYAR-25**.
 
-## 🚀 Tautan Kolaborasi Utama
+## Tautan Kolaborasi Utama
 
 | 📋 Taskboard (_undangan_)| ☁️ Cloud Drive (_undangan_)| 💬 Discussion (_undangan_)|
 | :--- | :--- | :--- |
 | **[Papan Tugas Bersama](https://github.com/orgs/IMWG-Indonesia/projects/1/views/1)** | **[Folder Kerja/Berkas](https://drive.google.com/drive/folders/1coaF3GzgR-J9uoUTN_8QGzr1psTHZPWD?usp=drive_link)** | **[Matrix/Element Room](https://matrix.to/#/!QzUYQmKmZkUjkpTgBy:matrix.org?via=matrix.org)** |
 | Kelola micro-tasks & issue | Dataset, raw data, & output | Koordinasi teknis & threads |
-
----
 
 ## Tujuan
 - Mengubah data menjadi **aksi operasional** (data untuk dialog, peta untuk kolaborasi).
